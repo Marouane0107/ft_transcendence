@@ -126,6 +126,3 @@ Please adhere to the existing code style and include tests where applicable.
 
 **Marouane0107**  
 https://github.com/Marouane0107  
-
-## License
-
