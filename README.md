@@ -14,7 +14,7 @@ It provides user authentication (including two-factor), real-time chat, friend m
 - [Environment Variables](#environment-variables)  
 - [Folder Structure](#folder-structure)  
 - [Contributing](#contributing)  
-- [License](#license)  
+- [Author](#author)  
 
 ## Features
 
@@ -121,6 +121,11 @@ ft_transcendence/
 5. Open a Pull Request  
 
 Please adhere to the existing code style and include tests where applicable.
+
+## Author
+
+**Marouane0107**  
+https://github.com/Marouane0107  
 
 ## License
 
